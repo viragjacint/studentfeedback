@@ -1,0 +1,23 @@
+h1, .h1, h2, .h2, h3, .h3, .h4, p {
+	font-family: 'Titillium Web', sans-serif;
+	
+}
+
+body {
+	padding-top: 70px;
+	background: url('bg.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+}
+
+div.module{
+  border:solid thin grey;
+  padding:1ex;
+  margin:3ex;
+}
+
+p {
+	font-size:14px;
+}
+
